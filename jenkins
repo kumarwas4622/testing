@@ -1,5 +1,5 @@
-node(){
+node{
  stage('clone'){
- git url: https://github.com/kumarwas4622/testing.git
+ git url: 'https://github.com/kumarwas4622/testing.git'
  }
 }
